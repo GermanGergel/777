@@ -1,0 +1,5 @@
+{
+  "name": "FootyStats AI",
+  "description": "A comprehensive football statistics application powered by Gemini AI for real-time match analysis, player comparisons, and league insights.",
+  "requestFramePermissions": []
+}
